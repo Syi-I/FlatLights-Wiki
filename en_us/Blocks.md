@@ -1,0 +1,22 @@
+This is a list of all the blocks that FlatLights adds.
+
+## Pages in this category:
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Blackout Blocks | Blackout-Blocks]]
+- ![] (https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/cyan_flatblock.png) [[Flat Light Block | Flat-Light-Block.md]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Panel | Flat-Light-Panel]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Pillar | Flat-Light-Pillar]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Glass Blocks | Glass-Blocks]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Hex Light Block | Hex-Light-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Horizontal Edge Light | Horizontal-Edge-Light]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Hue Shifted Blocks | Hue-Shifted-Blocks]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Large Hex Light Block | Large-Hex-Light-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Large Tile Light Block | Large-Tile-Light-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Light Storage Block | Light-Storage-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Mob B' Gone (NYI)]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Motivational Chair | Motivational-Chair]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Plating Machine | Plating-Machine]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Prismatic Block | Prismatic-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Spectralizer | Spectralizer]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Spectrum Anvil (NYI)]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Tile Light Block | Tile-Light-Block]]
+- ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Vertical Edge Light | Vertical-Edge-Light]]
