@@ -2,7 +2,7 @@ This is a list of all the blocks that FlatLights adds.
 
 ## Pages in this category:
 - ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Blackout Blocks | Blackout-Blocks]]
-- ![] (https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/cyan_flatblock.png) [[Flat Light Block | Flat-Light-Block.md]]
+- ![] (https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/cyan_flatblock.png) [[Flat Light Block | Flat-Light-Block]]
 - ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Panel | Flat-Light-Panel]]
 - ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Pillar | Flat-Light-Pillar]]
 - ![] (https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Glass Blocks | Glass-Blocks]]
