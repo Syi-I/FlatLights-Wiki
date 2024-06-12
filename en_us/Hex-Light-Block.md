@@ -8,12 +8,12 @@
 | Drops            | Itself                             |
 | Light Level      | 10                                 |
 | Block ID         | `flatlights:<color>_hexblock`      |
-_Note: A list of colors can be found [here](Colors.md)._
+_Note: A list of colors can be found [here](Colors)._
 
-A sturdy plated source of light. It comes in the normal 16 dye colors, as well as [Hue Shifted](Hue-Shifted-Blocks.md) variants.
+A sturdy plated source of light. It comes in the normal 16 dye colors, as well as [Hue Shifted](Hue-Shifted-Blocks) variants.
 
 ## Appearance
-Hex Light blocks have a small gray hexagon pattern layered on top of the usual colors that are found in the Flat Lights blocks. As it is plated, it lets out less light than the regular [Flat Light block](Flat-Light-Block.md) would. The texture is mostly seamless, at least on one side at a time, so it can be used nicely in a floor or wall. 
+Hex Light blocks have a small gray hexagon pattern layered on top of the usual colors that are found in the Flat Lights blocks. As it is plated, it lets out less light than the regular [Flat Light block](Flat-Light-Block) would. The texture is mostly seamless, at least on one side at a time, so it can be used nicely in a floor or wall. 
 
 ## Obtaining
 Hex Light blocks can be crafted using any color Flat Light block, and 6 iron ingots surrounding the Flat Light block in a pattern. This will output 12 Hex Light blocks of the chosen color. Hex Light blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
