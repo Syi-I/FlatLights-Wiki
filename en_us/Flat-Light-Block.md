@@ -8,6 +8,7 @@
 | Drops            | Itself                             |
 | Light Level      | 15                                 |
 | Block ID         | `flatlights:<color>_flatblock`     |
+
 _Note: A list of colors can be found [here](Colors)._
 
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [Hue Shifted](Hue-Shifted-Blocks) variants.
