@@ -1,13 +1,13 @@
-| Light Storage Block | [[images/misc/crystal_blocks.png]] |
-|---------------------|------------------------------------|
-| Craftable           | Yes                                |
-| Stackable           | Yes, 64                            |
-| Creative Tab        | Flat Lights                        |
-| Harvest Tool        | Any                                |
-| Blast Resistance    | 100000000                          |
-| Drops               | Itself                             |
-| Tile Entity         | Yes                                |
-| Block ID            | `flatlights:light_storage`         |
+| Light Storage Block | [[images/gifs/light_storage_block.gif]] |
+|---------------------|-----------------------------------------|
+| Craftable           | Yes                                     |
+| Stackable           | Yes, 64                                 |
+| Creative Tab        | Flat Lights                             |
+| Harvest Tool        | Any                                     |
+| Blast Resistance    | 100000000                               |
+| Drops               | Itself                                  |
+| Tile Entity         | Yes                                     |
+| Block ID            | `flatlights:light_storage`              |
 
 A sturdy storage unit block, with expanded capacity in comparison to a regular double chest.
 
