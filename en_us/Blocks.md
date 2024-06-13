@@ -1,11 +1,11 @@
 This is a list of all the blocks that FlatLights adds.
 
 ## Pages in this category:
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Blackout Blocks | Blackout-Blocks]]
+- ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/blackout/black_flatblock_blackout.png) [[Blackout Blocks | Blackout-Blocks]]
 - ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/cyan_flatblock.png) [[Flat Light Block | Flat-Light-Block]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Panel | Flat-Light-Panel]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flat Light Pillar | Flat-Light-Pillar]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Glass Blocks | Glass-Blocks]]
+- ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/orange_flatblock.png) [[Flat Light Panel | Flat-Light-Panel]]
+- ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/magenta_flatblock.png) [[Flat Light Pillar | Flat-Light-Pillar]]
+- <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/glass/glass_large_tiles.png" width="16"/> [[Glass Blocks | Glass-Blocks]]
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/hexblock/pastel_green_hexblock.png" width="16"/> [[Hex Light Block | Hex-Light-Block]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Horizontal Edge Light | Horizontal-Edge-Light]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Hue Shifted Blocks | Hue-Shifted-Blocks]]
