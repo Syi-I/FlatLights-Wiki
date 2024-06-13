@@ -14,7 +14,7 @@ _Note: A list of colors can be found [here](Colors)._
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants. It can be placed in different orientations and can be water logged.
 
 ## Appearance
-Flat light pillars have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone or redstone lamps. Flat light pillars also make use of a model that has no shading, giving them an interesting visual effect. They can be placed in different orientations and are the same dimensions as a fence post.
+Flat light pillars have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Flat light pillars also make use of a model that has no shading, giving them an interesting visual effect. They can be placed in different orientations and are the same dimensions as a fence post.
 
 ## Obtaining
 Flat light pillars can be crafted using 3 of any single color flat light block, placed vertically in a line. This will output 48 flat light pillars of the chosen color. Flat light pillars can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.

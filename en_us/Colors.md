@@ -1,4 +1,4 @@
-There are 16 regular colors that blocks from Flat Lights uses. These come from the vanilla dye colors. There are also the [Hue Shifted](Hue-Shifted-Blocks.md) blocks which give an additional 16 colors.
+There are 16 regular colors that blocks from Flat Lights uses. These come from the vanilla dye colors. There are also the [hue shifted](Hue-Shifted-Blocks) blocks which give an additional 16 colors.
 
 ### List of Colors
 
