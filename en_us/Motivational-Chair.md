@@ -19,4 +19,4 @@ Motivational chairs can sometimes be found in the loot chests of most generated 
 ## Usage
 There are currently no crafting uses for motivational chairs.
 
-Motivational chairs are meant to be used as decoration blocks. When a player sits in the chair, the player receives the `regeneration 3` and `saturation 1` effects.
+Motivational chairs are meant to be used as decoration blocks. When a player sits in the chair, the player receives the effects `regeneration 3` and `saturation 1`.
