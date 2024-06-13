@@ -1,4 +1,4 @@
-This is a list of all the items that FlatLights adds.
+This is a list of all the items that Flat Lights adds.
 
 ## Pages in this category:
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Blackout Powder | Blackout-Powder]]
