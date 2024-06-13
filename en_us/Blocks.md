@@ -11,7 +11,7 @@ This is a list of all the blocks that Flat Lights adds.
 - ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/pastel_green_flatblock.png) [[Hue Shifted Blocks | Hue-Shifted-Blocks]]
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/large_hexblock/purple_large_hexblock.png" width="16" alt=""/> [[Large Hex Light Block | Large-Hex-Light-Block]]
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/large_tiles/red_large_tiles.png" width="16" alt=""/> [[Large Tile Light Block | Large-Tile-Light-Block]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Light Storage Block | Light-Storage-Block]]
+- <img src="images/gifs/light_storage_block.gif" width="16" alt=""/> [[Light Storage Block | Light-Storage-Block]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Mob B' Gone (NYI)]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Motivational Chair | Motivational-Chair]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Plating Machine | Plating-Machine]]
