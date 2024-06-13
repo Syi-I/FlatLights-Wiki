@@ -16,7 +16,7 @@ This is a list of all the blocks that Flat Lights adds.
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/motivational_chair.png" width="16" alt=""/> [[Motivational Chair | Motivational-Chair]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Plating Machine | Plating-Machine]]
 - [[images/gifs/prismatic_block.gif]] [[Prismatic Block | Prismatic-Block]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Spectralizer | Spectralizer]]
+- <img src="images/gifs/spectralizer.gif" width="16" alt=""/> [[Spectralizer | Spectralizer]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Spectrum Anvil (NYI)]]
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/tiles/spring_green_tiles.png" width="16" alt=""/> [[Tile Light Block | Tile-Light-Block]]
 - ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/block/flatblock/gold_flatblock.png) [[Vertical Edge Light | Vertical-Edge-Light]]
