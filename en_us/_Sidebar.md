@@ -1,14 +1,14 @@
 [[[images/misc/logo.png]]](https://github.com/Syi-I/FlatLights-Wiki/wiki/)
 ### Gameplay
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/wizard_handbook.png) **[[Getting Started | Getting-Started]]**  
-<img src="images/gifs/spectralizer.gif" width="16" alt=""/> [[Blocks | Blocks]]  
-[[images/gifs/prismatic_ingot.gif]] [[Items | Items]]  
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/spell_book.png) [[Enchantments | Enchantments]]
-<img src="https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/gui/potion_icon_frost.png" alt="" width=16 height=16> [[Status Effects]]
+<img src="images/gifs/spectralizer.gif" width="16" alt=""/> [[Blocks | Blocks]]     
+[[images/gifs/prismatic_ingot.gif]] [[Items | Items]]       
+<img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Enchantments | Enchantments]]  
+<img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/mob_effect/entangled.png" width="16" alt=""> [[Status Effects | Status-Effects]]     
+<img src="images/icons/curio.png" width="16" alt=""/> [[Curio Mechanics | Curio-Mechanics]]
 
 ### Development
-[[images/icons/parchment.png]] [[Changelog|Changelog]]
-![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/crystal_magic.png) [[About and Credits | About-and-Credits]]
+<img src="images/icons/paper.png" width="16" alt=""/> [[Changelog | Changelog]]   
+<img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/gun_rat.png" width="16" alt=""> [[About and Credits | About-And-Credits]]
 
 ### External Links
 &#x2ba1;&nbsp; [Curseforge Page](https://www.curseforge.com/minecraft/mc-mods/flat-lights)
