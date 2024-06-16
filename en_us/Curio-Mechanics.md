@@ -35,23 +35,17 @@ The curios from Flat Lights all have a tier which determines the [stat bonus mul
 The tier `Stat Multiplier` changes the value of stats that the curio provides as a bonus when worn. As an example, let's say a player has a `Common` tier curio that provides `+4 Armor` and `+6 Max Health`. If the player had an `Epic` tier version of this curio, the stat increase would instead be `+8 Armor` and `+12 Max Health` when worn. This means a player would typically want to wear only their highest tier curios. The drawback to only picking the highest tier curios is that the player may not have a matching curio [set](#sets), which would prevent the player from using any [set effects](#set-effects). The player will thus have a choice between having high raw stat bonuses, or being able to use the powerful set effects that wearing a curio set can provide, unless the player is very lucky and happens to have a matching set of high tier curios.
 
 #### Growth Tier
-The growth tier curios are extremely rare, and have a capped amount of growth that the player can increase progression of. Growth progress is achieved simply by killing any mobs, and more progress is gained depending on the max health of the creature slain. The minimum growth progress gained for killing a mob is 1 point, otherwise progress is equal to `max(round(mob_max_health / 20)), 1)`, or how many times more health the mob has compared to the player's base health.  Increasing the growth progress of growth tier curios will slowly increase the stats of the curio, growing by `0.01 * growthProgress`. By default, the growth of curios is capped to 1000, which usually translates to `+10` stat points per stat compared to the same curio if it was `Legendary` tier. This cap cannot be changed currently. In some cases, the growth progress can also increase the set effect potency or range of the curio. This only makes a difference on the [cube](#light-cubes) curios though, as on the backend only the cube slot holds the functionality of the set effects.
+The growth tier curios are extremely rare, and have a capped amount of growth that the player can increase progression of. Growth progress is achieved simply by killing any mobs, and more progress is gained depending on the max health of the creature slain. The minimum growth progress gained for killing a mob is 1 point, otherwise progress is equal to `max(round(mob_max_health / 20)), 1)`, or how many times more health the mob has compared to the player's base health.  Increasing the growth progress of growth tier curios will slowly increase the stats of the curio, growing by `0.01 * growthProgress`. By default, the growth of curios is capped to 1000, which usually translates to `+10` stat points per stat compared to the same curio if it was `Legendary` tier. This cap cannot be changed currently, but there are plans for a config option. In some cases, the growth progress can also increase the set effect potency or range of the curio. This only makes a difference on the [cube](#light-cubes) curios though, as on the backend only the cube slot holds the functionality of the set effects.
 
 ## Sets
 Every curio from Flat Lights has a set that it is a part of, and this set of curios will have an associated [set effect](#set-effects) that can be triggered when a Light Cube, Light Prism, and Light Sphere of the same set are worn together in the appropriate slots. The Set of the curio is predetermined and cannot be changed through any means.
 
-### List of Curio Sets
-- Dragon's Final Test
-- On the Forgotten Shore
-- Radiance of the False Sun
+[List of curio sets](Sets-And-Effects#Curio-Sets)
 
 ## Set Effects
 Every curio from Flat Lights has a set effect, which can be triggered when a player wears a matching set of a Light Cube, Light Prism, and Light Sphere. The Set Effect can be triggered only if the player's curios are all part of the same [set](#sets), and the effect can be toggled on and off using a set keybind (Default: V). Do note that you cannot trigger a Set Effect unless the curios are in the custom [Light Cube/Light Prism/Light Sphere](#slot-types) curio slots. The system will not check generic Curio slots.
 
-### List of Set Effects
-- Erosion Aura
-- Domain of Still Waters
-- Rising Heat
+[List of curio set effects](Sets-And-Effects#Curio-Set-Effects)
 
 ## Slot Types
 Curios that are added by Flat Lights are categorized into three custom added slot types: Light Cubes, Light Prisms, and Light Spheres. The player will get one of each slot type by default, and curios are balanced around this number of slots. Functionality of the [set effect](#set-effects) also depends on this number of slots, and only the first curio found in each slot type will count towards the various bonuses that can be acquired. Keep this in mind before deciding to add more of these slot types.

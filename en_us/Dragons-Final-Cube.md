@@ -1,7 +1,7 @@
 | Curio          | <img src="images/icons/curio.png" width="32" alt=""/> |
 |----------------|-------------------------------------------------------|
-| Set Name       | Dragon's Final Test                                   |
-| Set Effect     | Erosion Aura                                          |
+| Set Name       | [Dragon's Final Test](Sets-And-Effects)               |
+| Set Effect     | [Erosion Aura](Sets-And-Effects)                      |
 | Possible Tiers | Common, Rare, Epic, Legendary, Growth                 |
 
 ## Effects
