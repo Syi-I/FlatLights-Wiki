@@ -1,11 +1,11 @@
 This is a list of all the items that Flat Lights adds.
 
 ## Pages in this category:
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Blackout Powder | Blackout-Powder]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Bread But High Quality | Bread-But-High-Quality]]
+- ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/blackout_powder.png) [[Blackout Powder | Blackout-Powder]]
+- <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/bread_but_high_quality.png" width="16" alt=""/> [[Bread But High Quality | Bread-But-High-Quality]]
 - <img src="images/icons/curio.png" width="16" alt=""/> [[Curios | Curios]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Final Sunset | Prismatic-Blademk2]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Gravity Lift | Gravity-Lift]]
+- ![]() ![]() <img src="images/gifs/prismatic_blademk2.gif" height="16" alt=""/> ![]() [[Final Sunset | Prismatic-Blademk2]]
+- <img src="images/misc/gravity_lift.png" width="16" alt=""/> [[Gravity Lift | Gravity-Lift]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Hue Shifting Vial | Hue-Shifting-Vial]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Jogoat | Jogoat]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[no | gun-rat]]
