@@ -19,6 +19,9 @@ Tile light blocks have a small gray square pattern layered on top of the usual c
 ## Obtaining
 Tile light blocks can be crafted using any color flat light block, and 4 iron ingots surrounding the flat light block in a pattern. This will output 8 tile light blocks of the chosen color. Tile light blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/tiles.png]]  
+*The crafting recipe for an orange tile light block*
+
 ## Usage
 There are currently no crafting uses for tile light blocks.
 

@@ -19,6 +19,9 @@ Flat light blocks have entirely flat textures, with no borders or noise, which g
 ## Obtaining
 Flat light blocks can be crafted shapelessly using any block of glass, glowstone dust, and a choice of dye color. This will output 8 flat light blocks of the chosen color. Flat light blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/flatlight_block.png]]  
+*The crafting recipe for a green flat light block*
+
 ## Usage
 There are many crafting uses for flat light blocks. They are utilized in:
 - [Blackout blocks](Blackout-Blocks)

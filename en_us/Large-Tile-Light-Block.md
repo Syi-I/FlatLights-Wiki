@@ -19,6 +19,9 @@ Large tile light blocks have a large gray square pattern layered on top of the u
 ## Obtaining
 Large tile light blocks can be crafted using any color flat light block, and 4 iron ingots surrounding the flat light block. This will output 8 large tile light blocks of the chosen color. Large tile light blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/large_tiles.png]]  
+*The crafting recipe for a red large tile light block*
+
 ## Usage
 There are currently no crafting uses for large tile light blocks.
 

@@ -17,7 +17,15 @@ Light storage blocks look like a gray and white cube, sharing textures with gray
 ## Obtaining
 Light storage blocks are created in the [plating machine](Plating-Machine), just requiring a chest and a block of white concrete. This will output a single light storage block. Light storage blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/light_storage.png]]  
+*The crafting recipe for a light storage block, using the plating machine*
+
 ## Usage
 There are currently no crafting uses for light storage blocks.
+
+Light storage blocks have 117 inventory slots available for storing items.
+
+[[images/misc/light_storage_ui.png]]  
+*The GUI of an empty light storage block*
 
 Light storage blocks are meant to be used as storage replacements for chests, but can also be used as decoration due to its unique shape. When broken, it will drop all of its contents onto the ground just like a chest would.

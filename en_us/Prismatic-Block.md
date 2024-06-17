@@ -17,6 +17,9 @@ Prismatic blocks have entirely flat textures, with no borders or noise, which gi
 ## Obtaining
 Prismatic blocks can be crafted using any combination of 9 `flatblock`s. This will output 1 prismatic block. Prismatic blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/prismatic_block.png]]  
+*The crafting recipe for a prismatic block*
+
 ## Usage
 Prismatic blocks can be crafted into [blackout blocks](Blackout-Blocks), or smelted into [prismatic ingots](Prismatic-Ingot).
 

@@ -19,6 +19,9 @@ Flat light pillars have entirely flat textures, with no borders or noise, which 
 ## Obtaining
 Flat light pillars can be crafted using 3 of any single color flat light block, placed vertically in a line. This will output 48 flat light pillars of the chosen color. Flat light pillars can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/flatlight_pillar.png]]  
+*The crafting recipe for a salmon flat light pillar*
+
 ## Usage
 Flat light pillars can be used in crafting as [blackout blocks](Blackout-Blocks).
 

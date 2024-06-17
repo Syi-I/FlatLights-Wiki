@@ -19,6 +19,9 @@ These blackout blocks look the same as their non-blackout counterparts, except t
 ## Obtaining
 Blackout blocks can be crafted shapelessly with any non-plated light block of choice, and blackout powder. Blackout blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/blackout_block.png]]  
+*The crafting recipe for a lime blackout block*
+
 ## Usage
 The flatblock blackout blocks are also tagged as `flatblock` and can thus be used to craft [prismatic blocks](Prismatic-Block).
 

@@ -19,6 +19,9 @@ Flat light panels have entirely flat textures, with no borders or noise, which g
 ## Obtaining
 Flat light panels can be crafted using 3 of any single color flat light block, placed horizontally in a line. This will output 24 flat light panels of the chosen color. Flat light panels can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/flatlight_panel.png]]  
+*The crafting recipe for a blue flat light panel*
+
 ## Usage
 Flat light panels can be used in crafting as [blackout blocks](Blackout-Blocks).
 

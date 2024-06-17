@@ -19,6 +19,12 @@ Vertical edge lights have entirely flat textures, with no borders or noise, whic
 ## Obtaining
 Vertical edge lights can be crafted using 2 of any single color flat light block, placed vertically in a line. This will output 64 vertical edge lights of the chosen color. Horizontal edge lights can also be converted to vertical edge lights at a 1 to 1 ratio. Vertical edge lights can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/vertical_edge_1.png]]  
+*The crafting recipe for a pastel green vertical edge light*
+
+[[images/recipes/vertical_edge_2.png]]  
+*Converting a horizontal edge light to a vertical edge light*
+
 ## Usage
 Vertical edge lights can be used in crafting as [blackout blocks](Blackout-Blocks).
 

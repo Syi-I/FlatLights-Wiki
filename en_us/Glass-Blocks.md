@@ -18,6 +18,21 @@ The different wire glass blocks have a tinted black, translucent appearance. The
 ## Obtaining
 The base flat glass blocks can be crafted using any color glass block, and 8 iron ingots surrounding the glass block. This will output 8 flat glass blocks. The flat glass blocks can then be used to craft the other patterns of wire glass blocks. Those require varying amounts of iron ingots, in the patterns that match their respective light block counterparts. The wire glass blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/glass_flatblock.png]]  
+*The crafting recipe for a flat glass block*
+
+[[images/recipes/glass_hexblock.png]]  
+*The crafting recipe for a hex wire glass block*
+
+[[images/recipes/glass_large_hexblock.png]]  
+*The crafting recipe for a large hex wire glass block*
+
+[[images/recipes/glass_large_tiles.png]]  
+*The crafting recipe for a large grid wire glass block*
+
+[[images/recipes/glass_tiles.png]]  
+*The crafting recipe for a grid wire glass block*
+
 ## Usage
 The flat glass blocks can be used in crafting the other wire glass block variants, but outside of this there are no crafting uses.
 

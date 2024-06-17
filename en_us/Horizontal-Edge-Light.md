@@ -19,6 +19,12 @@ Horizontal edge lights have entirely flat textures, with no borders or noise, wh
 ## Obtaining
 Horizontal edge lights can be crafted using 2 of any single color flat light block, placed horizontally in a line. This will output 64 horizontal edge lights of the chosen color. Vertical edge lights can also be converted to horizontal edge lights at a 1 to 1 ratio. Horizontal edge lights can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/horizontal_edge_1.png]]  
+*The crafting recipe for a purple horizontal edge light*
+
+[[images/recipes/horizontal_edge_2.png]]  
+*Converting a vertical edge light to a horizontal edge light*
+
 ## Usage
 Horizontal edge lights can be used in crafting as [blackout blocks](Blackout-Blocks).
 

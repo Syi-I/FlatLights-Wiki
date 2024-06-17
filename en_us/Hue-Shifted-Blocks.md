@@ -19,6 +19,9 @@ These hue shifted blocks look the same as their regular, vanilla dye colored cou
 ## Obtaining
 Hue shifted blocks can be crafted using 8 of a single color of flat light block, and a [hue shifting vial](Hue-Shifting-Vial). This outputs 8 of the corresponding hue shifted flat light block. Hue shifted blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/hue_shifted_block.png]]  
+*The crafting recipe for a sapphire flat light block*
+
 ## Usage
 The flatblock hue shifted blocks are also tagged as `flatblock` and can thus be used to craft [prismatic blocks](Prismatic-Block). The hue shifted flat light blocks can also be used to craft the various [shaped](Block-Shapes.md) light blocks, in their corresponding hue shifted colors. Similarly, the hue shifted flat light blocks can also be used to craft the various [plate block](Block-Types.md) light blocks, in their corresponding hue shifted colors.
 

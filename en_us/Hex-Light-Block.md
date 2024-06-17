@@ -19,6 +19,9 @@ Hex light blocks have a small gray hexagon pattern layered on top of the usual c
 ## Obtaining
 Hex light blocks can be crafted using any color flat light block, and 6 iron ingots surrounding the flat light block in a pattern. This will output 12 hex light blocks of the chosen color. Hex light blocks can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
+[[images/recipes/hexblock.png]]  
+*The crafting recipe for a yellow hex light block*
+
 ## Usage
 There are currently no crafting uses for hex light blocks.
 
