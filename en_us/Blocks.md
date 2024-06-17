@@ -14,7 +14,7 @@ This is a list of all the blocks that Flat Lights adds.
 - <img src="images/gifs/light_storage_block.gif" width="16" alt=""/> [[Light Storage Block | Light-Storage-Block]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Mob B' Gone (NYI)]]
 - <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/motivational_chair.png" width="16" alt=""/> [[Motivational Chair | Motivational-Chair]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Plating Machine | Plating-Machine]]
+- <img src="images/gifs/plating_machine.gif" width="16" alt=""/> [[Plating Machine | Plating-Machine]]
 - [[images/gifs/prismatic_block.gif]] [[Prismatic Block | Prismatic-Block]]
 - <img src="images/gifs/spectralizer.gif" width="16" alt=""/> [[Spectralizer | Spectralizer]]
 - ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Spectrum Anvil (NYI)]]
