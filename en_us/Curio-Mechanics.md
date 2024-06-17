@@ -23,13 +23,13 @@ There is also an increased chance for more curios generating, depending on the s
 ## Tiers
 The curios from Flat Lights all have a tier which determines the [stat bonus multiplier](#tier-stat-differences) that gets applied to the bonus stats of a curio, and can also sometimes get applied to a curio's set effect depending on the actual effect. The tiers, roll chance, and stat multipliers are as follows:
 
-|    Tier    | Drop Chance | Stat Multiplier  |
-|:----------:|:-----------:|:----------------:|
-|   Common   |     45%     |        1x        |
-|    Rare    |     30%     |       1.5x       |
-|    Epic    |     15%     |        2x        |
-| Legendary  |     9%      |       2.5x       |
-|   Growth   |     1%      |       2.5x       |
+|    Tier    | Drop Chance | Stat Multiplier  |                                                    Icon                                                     |
+|:----------:|:-----------:|:----------------:|:-----------------------------------------------------------------------------------------------------------:|
+|   Common   |     45%     |        1x        |     [[images/gifs/common_cube.gif]] [[images/gifs/common_prism.gif]] [[images/gifs/common_sphere.gif]]      |
+|    Rare    |     30%     |       1.5x       |        [[images/gifs/rare_cube.gif]] [[images/gifs/rare_prism.gif]] [[images/gifs/rare_sphere.gif]]         |
+|    Epic    |     15%     |        2x        |        [[images/gifs/epic_cube.gif]] [[images/gifs/epic_prism.gif]] [[images/gifs/epic_sphere.gif]]         |
+| Legendary  |     9%      |       2.5x       | [[images/gifs/legendary_cube.gif]] [[images/gifs/legendary_prism.gif]] [[images/gifs/legendary_sphere.gif]] |
+|   Growth   |     1%      |       2.5x       |     [[images/gifs/growth_cube.gif]] [[images/gifs/growth_prism.gif]] [[images/gifs/growth_sphere.gif]]      |
 
 ### Tier Stat Differences
 The tier `Stat Multiplier` changes the value of stats that the curio provides as a bonus when worn. As an example, let's say a player has a `Common` tier curio that provides `+4 Armor` and `+6 Max Health`. If the player had an `Epic` tier version of this curio, the stat increase would instead be `+8 Armor` and `+12 Max Health` when worn. This means a player would typically want to wear only their highest tier curios. The drawback to only picking the highest tier curios is that the player may not have a matching curio [set](#sets), which would prevent the player from using any [set effects](#set-effects). The player will thus have a choice between having high raw stat bonuses, or being able to use the powerful set effects that wearing a curio set can provide, unless the player is very lucky and happens to have a matching set of high tier curios.
