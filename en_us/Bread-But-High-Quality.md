@@ -1,9 +1,9 @@
-| Bread but High Quality | ![](https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/blackout_powder.png) |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Craftable              | Yes                                                                                                                            |
-| Stackable              | Yes, 64                                                                                                                        |
-| Creative Tab           | Flat Lights                                                                                                                    |
-| Item ID                | `flatlights:bread_but_high_quality`                                                                                            |
+| Bread but High Quality | <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/bread_but_high_quality.png" width="32" alt=""/> |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Craftable              | Yes                                                                                                                                                             |
+| Stackable              | Yes, 64                                                                                                                                                         |
+| Creative Tab           | Flat Lights                                                                                                                                                     |
+| Item ID                | `flatlights:bread_but_high_quality`                                                                                                                             |
 
 Bread but high quality is a food item that gives 6 times the benefits of normal bread.
 
