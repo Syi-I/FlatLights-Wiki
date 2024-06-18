@@ -40,4 +40,6 @@ This is significantly more potent protection, but could be balanced around havin
 ### Set Effect
 Wearing a full set of prismatic armor gives the wearer the `saturation` effect while worn.
 
+The prismatic chestplate can be enchanted via an enchanting table, or by combining it with enchanted books in an anvil. It is unbreakable, so it cannot be repaired in an anvil.
+
 There are no crafting uses for the prismatic chestplate.
