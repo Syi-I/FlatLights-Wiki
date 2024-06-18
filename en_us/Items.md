@@ -22,4 +22,4 @@ This is a list of all the items that Flat Lights adds.
 - ![]() ![]() <img src="images/gifs/prismatic_blade.gif" height="16" alt=""/> ![]() [[Prismatic Blade | Prismatic-Blade]]
 - [[images/gifs/prismatic_ingot.gif]] [[Prismatic Ingot | Prismatic-Ingot]]
 - [[images/gifs/prismatic_sword.gif]] [[Prismatic Sword | Prismatic-Sword]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Reusable Dyes | Reusable-Dyes]]
+- <img src="https://github.com/Syi-I/FlatLights/blob/gear_beta/src/main/resources/assets/flatlights/textures/item/lime_reusable_dye.png" height="16" alt=""/> [[Reusable Dyes | Reusable-Dyes]]
