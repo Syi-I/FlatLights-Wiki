@@ -10,7 +10,7 @@ Bread but high quality is a food item that gives 6 times the benefits of normal 
 ## Obtaining
 Bread but high quality can be crafted using the [Spectralizer](Spectralizer) and 6 bread items. This outputs 1 bread but high quality. Bread but high quality can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/bread_but_high_quality.png]]  
 *The crafting recipe for bread but high quality, using the Spectralizer*
 
 ## Usage
