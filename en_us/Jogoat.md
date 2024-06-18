@@ -3,7 +3,7 @@
 | Craftable    | No                                                                                                                                              |
 | Stackable    | Yes, 64                                                                                                                                         |
 | Creative Tab | Flat Lights                                                                                                                                     |
-| Block ID     | `flatlights:jogoat`                                                                                                                             |
+| Item ID      | `flatlights:jogoat`                                                                                                                             |
 
 An item that exists.
 

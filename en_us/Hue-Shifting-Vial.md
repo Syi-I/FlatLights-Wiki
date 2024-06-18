@@ -3,7 +3,7 @@
 | Craftable         | Yes                                                              |
 | Stackable         | No                                                               |
 | Creative Tab      | Flat Lights                                                      |
-| Block ID          | `flatlights:hue_shifting_vial`                                   |
+| Item ID           | `flatlights:hue_shifting_vial`                                   |
 
 Hue shifting vials are a crafting ingredient for [hue shifted blocks](Hue-Shifted-Blocks).
 

@@ -3,7 +3,7 @@
 | Craftable    | No                                                                                                                                                                              |
 | Stackable    | No                                                                                                                                                                              |
 | Creative Tab | Flat Lights                                                                                                                                                                     |
-| Block ID     | `flatlights:prismatic_blademk2`                                                                                                                                                 |
+| Item ID      | `flatlights:prismatic_blademk2`                                                                                                                                                 |
 
 The Final Sunset is a sword item with various weapon modes.
 

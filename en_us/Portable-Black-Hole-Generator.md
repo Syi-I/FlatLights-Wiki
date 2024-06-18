@@ -3,12 +3,12 @@
 | Craftable                     | Yes                                                               |
 | Stackable                     | Yes, 64                                                           |
 | Creative Tab                  | Flat Lights                                                       |
-| Block ID                      | `flatlights:portable_blackhole`                                   |
+| Item ID                       | `flatlights:portable_blackhole`                                   |
 
 The portable black hole generator is a projectile item that spawns a black hole on impact.
 
 ## Obtaining
-Portable black hole generators can be crafted using the [Spectralizer](Spectralizer), with 2 netherite ingots, 2 end crystals, 1 nether star, and a [prisma nucleus](Prisma-Nucleus). This outputs 1 portable black hole generator. Portable black hole generators can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
+Portable black hole generators can be crafted using the [Spectralizer](Spectralizer), with 2 netherite ingots, 2 end crystals, 1 nether star, and 1 [prisma nucleus](Prisma-Nucleus). This outputs 1 portable black hole generator. Portable black hole generators can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
 [[images/recipes/blackout_block.png]]  
 *The crafting recipe for a portable black hole generator, using the Spectralizer*

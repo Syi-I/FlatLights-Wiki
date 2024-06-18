@@ -3,7 +3,7 @@
 | Craftable    | No                                                                                                                                               |
 | Stackable    | Yes, 64                                                                                                                                          |
 | Creative Tab | Flat Lights                                                                                                                                      |
-| Block ID     | `flatlights:gun_rat`                                                                                                                             |
+| Item ID      | `flatlights:gun_rat`                                                                                                                             |
 
 An item that exists.
 
