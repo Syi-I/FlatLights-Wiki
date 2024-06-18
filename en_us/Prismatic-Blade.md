@@ -10,7 +10,7 @@ The prismatic blade is a sword item that deals a percent of the target's max hea
 ## Obtaining
 The prismatic blade can be crafted using a [plating machine](Plating-Machine), with 1 netherite sword and 1 [prisma nucleus](Prisma-Nucleus). This outputs 1 prismatic blade. The prismatic blade can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/prismatic_blade.png]]  
 *The crafting recipe for a prismatic blade, using a plating machine*
 
 ## Usage

@@ -10,7 +10,7 @@ Prisma nuclei are used as a crafting ingredient for various items.
 ## Obtaining
 A prisma nucleus can be crafted using a [plating machine](Plating-Machine) with 1 [prismatic ingot](Prismatic-Ingot), and 1 ender pearl. This outputs 1 prisma nucleus. Prisma nuclei can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/prisma_nucleus.png]]  
 *The crafting recipe for a prisma nucleus, using the plating machine*
 
 ## Usage

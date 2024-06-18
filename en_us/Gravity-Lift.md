@@ -10,7 +10,7 @@ The gravity lift is a tool that raises the player up a certain number of blocks.
 ## Obtaining
 Gravity lifts can be crafted using the [Spectralizer](Spectralizer), with 3 glass panes of any color, 2 iron ingots, and 1 [prisma nucleus](Prisma-Nucleus). This outputs 1 gravity lift. Gravity lifts can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/gravity_lift.png]]  
 *The crafting recipe for a gravity lift, using the Spectralizer*
 
 ## Usage

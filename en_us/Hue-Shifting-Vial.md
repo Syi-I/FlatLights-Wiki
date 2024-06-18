@@ -10,7 +10,7 @@ Hue shifting vials are a crafting ingredient for [hue shifted blocks](Hue-Shifte
 ## Obtaining
 Hue shifting vials can be crafted shapelessly with a glass bottle and a [prismatic ingot](Prismatic-Ingot). This outputs 1 hue shifting vial. Hue shifting vials can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/hue_shifting_vial.png]]  
 *The crafting recipe for a hue shifting vial*
 
 ## Usage

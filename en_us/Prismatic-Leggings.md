@@ -13,7 +13,7 @@ The prismatic leggings are an off-white color with yellow and blue highlights on
 ## Obtaining
 Prismatic leggings can be crafted in a [Spectralizer](Spectralizer) using 1 [prismatic leggings core](Prismatic-Leggings-Core), 1 netherite ingot, 2 nether stars, and 2 [prisma nuclei](Prisma-Nucleus). This outputs 1 set of prismatic leggings. Prismatic leggings can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/prismatic_leggings.png]]  
 *The crafting recipe for prismatic leggings, using a Spectralizer*
 
 ## Usage

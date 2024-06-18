@@ -10,7 +10,7 @@ The prismatic chestplate core is used for crafting the [prismatic chestplate](Pr
 ## Obtaining
 A prismatic chestplate core can be crafted using 8 [prismatic ingots](Prismatic-Ingot) in the typical chestplate shape. This outputs 1 prismatic chestplate core. Prismatic chestplate cores can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/chest_core.png]]  
 *The crafting recipe for a prismatic chestplate core*
 
 ## Usage

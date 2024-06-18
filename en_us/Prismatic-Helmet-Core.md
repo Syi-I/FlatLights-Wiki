@@ -10,7 +10,7 @@ The prismatic helmet core is used for crafting the [prismatic helmet](Prismatic-
 ## Obtaining
 A prismatic helmet core can be crafted using 5 [prismatic ingots](Prismatic-Ingot) in the typical helmet shape. This outputs 1 prismatic helmet core. Prismatic helmet cores can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/helmet_core.png]]  
 *The crafting recipe for a prismatic helmet core*
 
 ## Usage

@@ -10,7 +10,7 @@ The prismatic boots core is used for crafting the [prismatic boots](Prismatic-Bo
 ## Obtaining
 A prismatic boots core can be crafted using 4 [prismatic ingots](Prismatic-Ingot) in the typical boots shape. This outputs 1 prismatic boots core. Prismatic boots cores can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/boots_core.png]]  
 *The crafting recipe for a prismatic boots core*
 
 ## Usage

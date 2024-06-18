@@ -10,7 +10,7 @@ Blackout powder is used as a crafting ingredient for creating the [blackout bloc
 ## Obtaining
 Blackout powder can be crafted shapelessly with 1 of any black dye, and 1 glowstone dust. This outputs 4 blackout powder. Blackout powder can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/blackout_powder.png]]  
 *The crafting recipe for blackout powder*
 
 ## Usage

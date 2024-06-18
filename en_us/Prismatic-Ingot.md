@@ -10,7 +10,7 @@ Prismatic ingots are used as a crafting ingredient for various items.
 ## Obtaining
 A prismatic ingot can be obtained by smelting a [prismatic block](Prismatic-Block). This outputs 1 prismatic ingot. Prismatic ingots can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
-[[images/recipes/blackout_block.png]]  
+[[images/recipes/prismatic_ingot.png]]  
 *The smelting recipe for a prismatic ingot*
 
 ## Usage
