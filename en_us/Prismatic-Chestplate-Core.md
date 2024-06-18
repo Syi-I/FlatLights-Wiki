@@ -1,9 +1,9 @@
-| Prismatic Chestplate Core | <img src="images/gifs/chestplate_core.gif" width="16" alt=""/> |
-|---------------------------|----------------------------------------------------------------|
-| Craftable                 | Yes                                                            |
-| Stackable                 | Yes, 64                                                        |
-| Creative Tab              | Flat Lights                                                    |
-| Item ID                   | `flatlights:chestplate_core`                                   |
+| Prismatic Chestplate Core | <img src="images/gifs/chest_core.gif" width="16" alt=""/> |
+|---------------------------|-----------------------------------------------------------|
+| Craftable                 | Yes                                                       |
+| Stackable                 | Yes, 64                                                   |
+| Creative Tab              | Flat Lights                                               |
+| Item ID                   | `flatlights:chest_core`                                   |
 
 The prismatic chestplate core is used for crafting the [prismatic chestplate](Prismatic-Chestplate)
 

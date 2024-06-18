@@ -1,9 +1,9 @@
-| Prismatic Leggings Core | <img src="images/gifs/leggings_core.gif" width="16" alt=""/> |
-|-------------------------|--------------------------------------------------------------|
-| Craftable               | Yes                                                          |
-| Stackable               | Yes, 64                                                      |
-| Creative Tab            | Flat Lights                                                  |
-| Item ID                 | `flatlights:leggings_core`                                   |
+| Prismatic Leggings Core | <img src="images/gifs/pants_core.gif" width="16" alt=""/> |
+|-------------------------|-----------------------------------------------------------|
+| Craftable               | Yes                                                       |
+| Stackable               | Yes, 64                                                   |
+| Creative Tab            | Flat Lights                                               |
+| Item ID                 | `flatlights:pants_core`                                   |
 
 The prismatic leggings core is used for crafting the [prismatic leggings](Prismatic-Leggings)
 
