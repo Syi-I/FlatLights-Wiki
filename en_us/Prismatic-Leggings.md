@@ -38,7 +38,7 @@ Wearing a full set of prismatic armor will provide 30 armor points, so 10 extra 
 This is significantly more potent protection, but could be balanced around having a low reduction cap set in the configs so players would have to choose between multilayered reduction or higher armor from external armor choices and only one instance of damage reduction.
 
 ### Set Effect
-Wearing a full set of prismatic armor gives the wearer the `saturation` effect while worn.
+Wearing a full set of prismatic armor gives the wearer the `Saturation` effect while worn.
 
 The prismatic leggings can be enchanted via an enchanting table, or by combining it with enchanted books in an anvil. It is unbreakable, so it cannot be repaired in an anvil.
 

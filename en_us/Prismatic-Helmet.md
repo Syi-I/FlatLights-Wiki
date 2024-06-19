@@ -17,7 +17,7 @@ The prismatic helmet can be crafted in a [Spectralizer](Spectralizer) using 1 [p
 *The crafting recipe for a prismatic helmet, using a Spectralizer*
 
 ## Usage
-The prismatic helmet is armor that the player can wear, providing protection levels that are higher than the netherite equivalent. Prismatic helmets provide `+5 Armor`, `+5 Armor Toughness`, and `+2.5 Knockback Resistance` when worn in the appropriate slot. Wearing the helmet also provides the `night vision` and `water breathing` effects.
+The prismatic helmet is armor that the player can wear, providing protection levels that are higher than the netherite equivalent. Prismatic helmets provide `+5 Armor`, `+5 Armor Toughness`, and `+2.5 Knockback Resistance` when worn in the appropriate slot. Wearing the helmet also provides the `Night Vision` and `Water Breathing` effects.
 
 ### Damage Reduction
 Prismatic armor provides extra damage reduction when the wearer hits a certain threshold of armor points. Once the player has a combined total of armor points above 20 points, or full diamond armor, any armor points above 20 will add +5% damage reduction. The damage calculation looks like this: 
@@ -38,7 +38,7 @@ Wearing a full set of prismatic armor will provide 30 armor points, so 10 extra 
 This is significantly more potent protection, but could be balanced around having a low reduction cap set in the configs so players would have to choose between multilayered reduction or higher armor from external armor choices and only one instance of damage reduction.
 
 ### Set Effect
-Wearing a full set of prismatic armor gives the wearer the `saturation` effect while worn.
+Wearing a full set of prismatic armor gives the wearer the `Saturation` effect while worn.
 
 The prismatic helmet can be enchanted via an enchanting table, or by combining it with enchanted books in an anvil. It is unbreakable, so it cannot be repaired in an anvil.
 

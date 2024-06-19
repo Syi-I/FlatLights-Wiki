@@ -12,7 +12,7 @@ A curio set focusing on the player's damage and healing abilities, with improved
 
 ## Curio Set Effects
 ### Erosion Aura
-This set effect projects an aura around the wearer that damages any entities with less max health than the wearer. The damage dealt is determined by the difference between the wearer's max health and the target's max health, and modified by a percent of how close the target is to the wearer. The resulting damage calculation is as follows:
+This set effect projects an aura around the wearer that deals [entangled](Damage-Sources#entangled) damage to any entities with less max health than the wearer. The damage dealt is determined by the difference between the wearer's max health and the target's max health, and modified by a percent of how close the target is to the wearer. The resulting damage calculation is as follows:
 
 `total_effect_radius = min(6 + growth_progress, 32)`    
 `percentMod = 1 - (distance_from_player / total_effect_radius)`     

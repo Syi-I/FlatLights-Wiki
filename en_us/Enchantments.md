@@ -1,12 +1,13 @@
 This is a list of all the enchantments that Flat Lights adds.
 
 ## Pages in this category:
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Black Hand | Black-Hand]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Bleeding Edge | Bleeding-Edge]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Bonesaw | Bonesaw]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Curse of Lifted Pickup Truck | Curse-of-Lifted-Pickup-Truck]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Flash of Brilliance | Flash-of-Brilliance]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Lethality | Lethality]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Neutralizer | Neutralizer]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Quantum Strike | Quantum-Strike]]
-- ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/blocks/arcane_workbench_top.png) [[Shimmer | Shimmer]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Black Hand | Black-Hand]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Bleeding Edge | Bleeding-Edge]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Bonesaw | Bonesaw]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Curse of Lifted Pickup Truck | Curse-of-Lifted-Pickup-Truck]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Flash of Brilliance | Flash-of-Brilliance]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Lethality | Lethality]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Neutralizer | Neutralizer]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Pulsing Arrows | Pulsing-Arrows]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Quantum Strike | Quantum-Strike]]
+- <img src="images/icons/enchanted_book.gif" width="16" alt=""/> [[Shimmer | Shimmer]]

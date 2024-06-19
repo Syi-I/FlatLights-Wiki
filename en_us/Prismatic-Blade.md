@@ -14,7 +14,7 @@ The prismatic blade can be crafted using a [plating machine](Plating-Machine), w
 *The crafting recipe for a prismatic blade, using a plating machine*
 
 ## Usage
-The prismatic blade is a weapon that deals damage to entities when the wielder left-clicks. It has a base `10 Attack Damage` and `2 Attack Speed`, making it both stronger and faster than a netherite sword. The prismatic blade also deals a percentage of the target's max health as bonus damage. The default bonus damage amount is 5% of the target's max health, but this can be changed in the config options.
+The prismatic blade is a weapon that deals damage to entities when the wielder left-clicks. It has a base `10 Attack Damage` and `2 Attack Speed`, making it both stronger and faster than a netherite sword. The prismatic blade also deals a percentage of the target's max health as bonus [physical](Damage-Sources#physical) damage. The default bonus damage amount is 5% of the target's max health, but this can be changed in the config options.
 
 As a sword item, the prismatic blade can break some blocks quicker, just like any vanilla sword.
 
