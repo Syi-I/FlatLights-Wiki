@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors)._
 
 A sturdy plated source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants.
 
+[[images/screenshots/tiles.png]]    
+_Tile light blocks of various colors_
+
 ## Appearance
 Tile light blocks have a small gray square pattern layered on top of the usual colors that are found in the Flat Lights blocks. As it is plated, it lets out less light than the regular [flat light block](Flat-Light-Block) would. The texture is mostly seamless, at least on one side at a time, so it can be used nicely in a floor or wall. 
 

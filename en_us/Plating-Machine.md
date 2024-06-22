@@ -11,6 +11,9 @@
 
 A machine that takes 2 items and combines them into a new one.
 
+[[images/screenshots/plating_machine.png]]    
+_A plating machine placed in the world_
+
 ## Appearance
 The plating machine looks like a white cube with gray side accents, sharing textures with white and gray concrete blocks. The front of the plating machine has a screen texture with orange tints. It also has colored accents similar to the [prismatic blocks](Prismatic-Block). It has the same block size as any regular block.
 

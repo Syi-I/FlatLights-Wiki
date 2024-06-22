@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors)._
 
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants.
 
+[[images/screenshots/flat_light_blocks.png]]    
+_Flat light blocks of various colors_
+
 ## Appearance
 Flat light blocks have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Flat light blocks also make use of a model that has no shading, giving them an interesting visual effect.
 

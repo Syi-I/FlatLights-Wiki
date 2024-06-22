@@ -11,6 +11,9 @@
 
 A sturdy storage unit block, with expanded capacity in comparison to a regular double chest.
 
+[[images/screenshots/light_storage_blocks.png]]    
+_Light storage blocks placed in walls of concrete and on the ground_
+
 ## Appearance
 Light storage blocks look like a gray and white cube, sharing textures with gray and white concrete blocks. They also have colored accents similar to the [prismatic blocks](Prismatic-Block). It has the same block size as any regular block.
 

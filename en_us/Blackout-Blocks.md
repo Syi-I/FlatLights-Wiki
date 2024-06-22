@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors). A list of block shapes can 
 
 The blackout variants of the various light blocks are identical in functionality, aside from having a lower light level than their non-blackout counterparts.
 
+[[images/screenshots/blackout_blocks.png]]  
+_Blackout blocks of various shapes and colors_
+
 ## Appearance
 These blackout blocks look the same as their non-blackout counterparts, except they use models with normal shading instead of no shading. They emit the same light level as a redstone torch.
 

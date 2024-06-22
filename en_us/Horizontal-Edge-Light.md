@@ -13,6 +13,12 @@ _Note: A list of colors can be found [here](Colors)._
 
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants. It can be placed in different orientations and can be water logged.
 
+[[images/screenshots/horizontal_edge1.png]]     
+_Horizontal edge lights following along solid block edges_
+
+[[images/screenshots/horizontal_edge2.png]]     
+_Horizontal edge lights placed on the top and bottom of blocks_
+
 ## Appearance
 Horizontal edge lights have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Horizontal edge lights also make use of a model that has no shading, giving them an interesting visual effect. They can be placed in different orientations and follow along the edges of solid blocks. Also see [vertical edge lights](Vertical-Edge-Light) for lights that can be placed vertically (e.g. up and down a wall, instead of along the floor/ceiling).
 

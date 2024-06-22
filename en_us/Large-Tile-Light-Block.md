@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors)._
 
 A sturdy plated source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants.
 
+[[images/screenshots/large_tiles.png]]    
+_Large tile light blocks of various colors_
+
 ## Appearance
 Large tile light blocks have a large gray square pattern layered on top of the usual colors that are found in the Flat Lights blocks. As it is plated, it lets out less light than the regular [flat light block](Flat-Light-Block) would. The texture is mostly seamless, at least on one side at a time, so it can be used nicely in a floor or wall. 
 

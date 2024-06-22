@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors)._
 
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants. It can be placed in different orientations and can be water logged.
 
+[[images/screenshots/flat_light_panels.png]]    
+_Flat light panels of various colors in the different placement orientations_
+
 ## Appearance
 Flat light panels have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Flat light panels also make use of a model that has no shading, giving them an interesting visual effect. They can be placed in different orientations, which allows them to cover an entire block's surface when using 6 panels.
 

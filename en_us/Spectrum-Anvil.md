@@ -11,6 +11,9 @@
 
 An anvil but with cheaper repair costs than a normal anvil.
 
+[[images/screenshots/spectrum_anvil.png]]    
+_A spectrum anvil placed next to a regular anvil_
+
 ## Appearance
 The spectrum anvil looks like a white anvil, sharing textures with white concrete blocks. It also has colored accents similar to the [prismatic blocks](Prismatic-Block). It has the same block size as a regular anvil.
 

@@ -13,6 +13,12 @@ _Note: A list of colors can be found [here](Colors)._
 
 A cheap but sturdy source of light. It comes in the normal 16 dye colors, as well as [hue shifted](Hue-Shifted-Blocks) variants. It can be placed in different orientations and can be water logged.
 
+[[images/screenshots/vertical_edge1.png]]    
+_Vertical edge lights following along the sides of blocks_
+
+[[images/screenshots/vertical_edge2.png]]    
+_Vertical edge lights placed along a wall_
+
 ## Appearance
 Vertical edge lights have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Vertical edge lights also make use of a model that has no shading, giving them an interesting visual effect. They can be placed in different orientations and follow along the edges of solid blocks. Also see [horizontal edge lights](Horizontal-Edge-Light) for lights that can be placed horizontally (e.g. along the floor/ceiling, instead of up and down a wall).
 

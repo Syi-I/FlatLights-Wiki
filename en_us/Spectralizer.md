@@ -11,6 +11,9 @@
 
 A machine that takes 6 items and combines them into a new one.
 
+[[images/screenshots/spectralizer.png]]    
+_A Spectralizer placed in the world_
+
 ## Appearance
 The Spectralizer looks like a white cube with gray side vents, sharing textures with white and gray concrete blocks. The front of the Spectralizer has a screen texture with colored bars. It also has colored accents similar to the [prismatic blocks](Prismatic-Block). It has the same block size as any regular block.
 

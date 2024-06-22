@@ -10,6 +10,9 @@
 
 A comfortable, yet sturdy, chair that a player can sit on.
 
+[[images/screenshots/motivational_chair.png]]    
+_A player sitting in a chair_
+
 ## Appearance
 The motivational chair looks like a white, plastic lawn chair. It takes up the same space as a regular block would, despite the model being slightly taller.
 

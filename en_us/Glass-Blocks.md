@@ -12,6 +12,9 @@ _Note: A list of block types can be found [here](Block-Types)._
 
 A sturdy glass block. It is available in the 5 block type patterns, similar to the various plate style blocks.
 
+[[images/screenshots/glass_blocks.png]]     
+_The different types of glass blocks_
+
 ## Appearance
 The different wire glass blocks have a tinted black, translucent appearance. The wire pattern overlays the tinted black, and the patterns are tileable like their plate block counterparts.
 

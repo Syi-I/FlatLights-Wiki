@@ -11,6 +11,9 @@
 
 A block that stops mobs from spawning in the chunk the block is located in.
 
+[[images/screenshots/mob_b_gone.png]]    
+_Mob B' Gones next to lanterns_
+
 ## Appearance
 The Mob B' Gone looks like a white cube with gray borders, sharing textures with white and gray concrete blocks. It also has colored accents similar to the [prismatic blocks](Prismatic-Block). It has about the same block size as a lantern.
 

@@ -13,6 +13,9 @@ _Note: A list of colors can be found [here](Colors)._
 
 The hue shifted variants of the various flat light blocks are identical in functionality, it is just a visual color change.
 
+[[images/screenshots/hue_shifted_blocks.png]]   
+_Hue shifted flat light blocks of various colors_
+
 ## Appearance
 These hue shifted blocks look the same as their regular, vanilla dye colored counterparts. They have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. Hue shifted flat light blocks emit the same light level as glowstone blocks and redstone lamps. Hue shifted flat light blocks also make use of a model that has no shading, giving them an interesting visual effect.
 

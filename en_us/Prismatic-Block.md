@@ -11,6 +11,9 @@
 
 A cheap but sturdy source of light. It shifts between all the colors of the rainbow.
 
+[[images/screenshots/prismatic_block.png]]    
+_Some prismatic blocks placed in the world_
+
 ## Appearance
 Prismatic blocks have entirely flat textures, with no borders or noise, which gives the blocks a seamless look when used together. They have a light level on par with glowstone blocks or redstone lamps. Prismatic blocks also make use of a model that has no shading, giving them an interesting visual effect.
 

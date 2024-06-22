@@ -20,3 +20,6 @@ There are 16 regular colors that blocks from Flat Lights uses. These come from t
 | red           | red_purple        |
 | white         | dark_pink         |
 | yellow        | rosy_pink         |
+
+[[images/screenshots/colors.png]]
+_Vanilla dye colored flat light blocks on the bottom, corresponding hue shifted flat light blocks on top_
