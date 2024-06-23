@@ -20,6 +20,9 @@ This set effect projects an aura around the wearer that deals [entangled](Damage
 
 The default base radius of 6 can be changed in the config options, and `growth_progress` is 0 if the curio is not a growth tier. The damage scales higher if the target is closer to the wearer.
 
+[[images/screenshots/erosion_aura_indicator.png]]   
+_Erosion aura effect indicator, toggled off (left) vs toggled on (right)_
+
 ### Domain of Still Waters
 This set effect provides a damage increase when the player or target is in water, or if it is raining. By default, it is a 3x damage increase but this value can be changed in the config options. Also, if the target is in water, or it is raining, then the `slowness` effect is applied to the target. The level of slowness is determined by the distance to the wearer, going from `slowness 1` up to `slowness 4` depending on how close the target is relative to the wearer.
 
@@ -41,3 +44,6 @@ This set effect provides a damage increase to targets that are burning. Targets 
 `total_effect_radius = min(8 + growth_progress, 32)`    
 
 The default base radius of 8 can be changed in the config options, and `growth_progress` is 0 if the curio is not a growth tier.
+
+[[images/screenshots/rising_heat_effect.png]]   
+_A creeper that has the Rising Heat effect_
