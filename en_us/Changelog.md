@@ -138,7 +138,7 @@ Ignore the mess of a changelog that is in the initial versions, I was not keepin
 ### Added
 
 ### Changed
-- Tooltip localization for Gravity Lift and Portable Black Hole Generator, instead of having hard coded tool tip descriptions
+- Tooltip localization for Gravity Lift and Portable Black Hole Generator, instead of having hard coded tooltip descriptions
 - Updated textures for the potion effect icons of Entangled and Bleed
 ### Fixed
 

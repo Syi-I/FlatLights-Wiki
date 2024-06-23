@@ -3,6 +3,12 @@ Flat Lights requires the mod [Curios v4.1.0.0](https://www.curseforge.com/minecr
 ## Overview
 The curios that Flat Lights adds can be found in the loot chests of most generated structures. When first found, curios start off unrolled. When a player uses the curio for the first time it will roll a random [tier](#tiers). While the curios all share the same sprites, the curios' [sets](#sets) are predetermined as they are actually different items. All curios from Flat Lights have a set, [set effect](#set-effects), and tier, and have a certain slot type that they belong to.
 
+[[images/screenshots/unrolled_curios.png]]      
+_A fresh, unrolled Light Cube, Light Prism, and Light Sphere_
+
+[[images/screenshots/curio_tooltip_example.png]]    
+_An example of a rare tier Light Cube and its tooltip_
+
 ## Obtaining
 Every curio has a chance to generate in the chests of basically any generated structure, such as but not limited to basic dungeons, strongholds, or desert temples. The chance of finding any one of the curios is equal, so finding one complete set may be difficult. Each chest has a chance of generating 1-3 curios.
 
@@ -43,12 +49,15 @@ Every curio from Flat Lights has a set that it is a part of, and this set of cur
 [List of curio sets](Sets-And-Effects#Curio-Sets)
 
 ## Set Effects
-Every curio from Flat Lights has a set effect, which can be triggered when a player wears a matching set of a Light Cube, Light Prism, and Light Sphere. The Set Effect can be triggered only if the player's curios are all part of the same [set](#sets), and the effect can be toggled on and off using a set keybind (Default: V). Do note that you cannot trigger a Set Effect unless the curios are in the custom [Light Cube/Light Prism/Light Sphere](#slot-types) curio slots. The system will not check generic Curio slots.
+Every curio from Flat Lights has a set effect, which can be triggered when a player wears a matching set of a Light Cube, Light Prism, and Light Sphere. The Set Effect can be triggered only if the player's curios are all part of the same [set](#sets), and the effect can be toggled on and off using a set keybind (Default: V). The `Set Effect` line of the Light Cube curio's tooltip will be green if the effect is toggled on, and red if the effect is either toggled off or unable to be used due to not having a matching set. Do note that you cannot trigger a Set Effect unless the curios are in the custom [Light Cube/Light Prism/Light Sphere](#slot-types) curio slots. The system will not check generic Curio slots.
 
 [List of curio set effects](Sets-And-Effects#Curio-Set-Effects)
 
 ## Slot Types
 Curios that are added by Flat Lights are categorized into three custom added slot types: Light Cubes, Light Prisms, and Light Spheres. The player will get one of each slot type by default, and curios are balanced around this number of slots. Functionality of the [set effect](#set-effects) also depends on this number of slots, and only the first curio found in each slot type will count towards the various bonuses that can be acquired. Keep this in mind before deciding to add more of these slot types.
+
+[[images/screenshots/curio_slots.png]]      
+_The added curio slot types, from top to bottom: Light Cube, Light Prism, Light Sphere_
 
 ### Light Cubes
 Light Cubes generally give stat buffs for a player's movement and survivability in some way, shape, or form. Usually, you will find stat increases for armor, armor toughness, or max health. On occasion, they can also give stat buffs for movement speed or swim speed. 
