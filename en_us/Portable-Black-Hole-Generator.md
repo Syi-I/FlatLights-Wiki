@@ -18,4 +18,7 @@ Right-clicking with a portable black hole generator in the main hand or offhand 
 
 There is a cooldown time for using the portable black hole generator, which by default is 10 seconds. The cooldown time can be changed in the config options, as well as the damage done by the black hole and the sucking power of the black hole. The default damage is 1.5 damage per hit, and the default sucking power is 0.2 blocks.
 
+[[images/screenshots/portable_black_hole_generator.png]]    
+_The black hole that is created from using the portable black hole generator_
+
 The portable black hole generator has no crafting uses.

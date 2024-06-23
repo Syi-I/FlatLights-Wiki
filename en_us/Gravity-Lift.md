@@ -18,4 +18,7 @@ Right-clicking with a gravity lift in the main hand or offhand will throw a grav
 
 There is a cooldown time for using the gravity lift. The default cooldown is 5 seconds, and the default lifetime of the lift is 10 seconds. Both the lifetime of the gravity lift and the cooldown time can be changed in the config options though.
 
+[[images/screenshots/gravity_lift.png]]     
+_Using the gravity lift_
+
 The gravity lift has no crafting uses.

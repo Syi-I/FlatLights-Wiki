@@ -10,6 +10,9 @@ The prismatic chestplate is an armor piece.
 ## Appearance
 The prismatic chestplate is an off-white color with yellow and blue highlights spanning across the chest diagonally, and also on the shoulders. There are gray and white hand coverings attached on the arms of the chestplate, as well as a gray spine on the back of the chestplate.
 
+[[images/screenshots/prismatic_armor.png]]  
+_The prismatic armor pieces on armor stands_
+
 ## Obtaining
 The prismatic chestplate can be crafted in a [Spectralizer](Spectralizer) using 1 [prismatic chestplate core](Prismatic-Chestplate-Core), 1 netherite ingot, 2 nether stars, and 2 [prisma nuclei](Prisma-Nucleus). This outputs 1 prismatic chestplate. Prismatic chestplates can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 

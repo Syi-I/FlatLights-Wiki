@@ -10,6 +10,9 @@ The prismatic boots are an armor piece.
 ## Appearance
 The prismatic boots are an off-white color with yellow and blue highlights around the bottom. The soles of the boots have gray accents.
 
+[[images/screenshots/prismatic_armor.png]]  
+_The prismatic armor pieces on armor stands_
+
 ## Obtaining
 Prismatic boots can be crafted in a [Spectralizer](Spectralizer) using 1 [prismatic boots core](Prismatic-Boots-Core), 1 netherite ingot, 2 nether stars, and 2 [prisma nuclei](Prisma-Nucleus). This outputs 1 set of prismatic boots. Prismatic boots can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 

@@ -10,6 +10,9 @@ The prismatic leggings are an armor piece.
 ## Appearance
 The prismatic leggings are an off-white color with yellow and blue highlights on the sides. The sides also have a gray accent stripe, and the leggings have a gray belt as well.
 
+[[images/screenshots/prismatic_armor.png]]  
+_The prismatic armor pieces on armor stands_
+
 ## Obtaining
 Prismatic leggings can be crafted in a [Spectralizer](Spectralizer) using 1 [prismatic leggings core](Prismatic-Leggings-Core), 1 netherite ingot, 2 nether stars, and 2 [prisma nuclei](Prisma-Nucleus). This outputs 1 set of prismatic leggings. Prismatic leggings can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 

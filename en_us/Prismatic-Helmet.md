@@ -10,6 +10,9 @@ The prismatic helmet is an armor piece.
 ## Appearance
 The prismatic helmet is an off-white color with yellow and blue highlights around the back of the helmet. The helmet has a yellow and blue visor that is meant to cover the wearer's eye area, and also has gray accents on the back and sides of the helmet.
 
+[[images/screenshots/prismatic_armor.png]]  
+_The prismatic armor pieces on armor stands_
+
 ## Obtaining
 The prismatic helmet can be crafted in a [Spectralizer](Spectralizer) using 1 [prismatic helmet core](Prismatic-Helmet-Core), 1 netherite ingot, 2 nether stars, and 2 [prisma nuclei](Prisma-Nucleus). This outputs 1 prismatic helmet. The prismatic helmet can also be found in the `Flat Lights` creative tab, or obtained through the `/give` command.
 
