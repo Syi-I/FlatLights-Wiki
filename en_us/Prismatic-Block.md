@@ -1,13 +1,13 @@
-| Prismatic Block  | [[images/misc/crystal_blocks.png]] |
-|------------------|------------------------------------|
-| Craftable        | Yes                                |
-| Stackable        | Yes, 64                            |
-| Creative Tab     | Flat Lights                        |
-| Harvest Tool     | Any                                |
-| Blast Resistance | 100000000                          |
-| Drops            | Itself                             |
-| Light Level      | 15                                 |
-| Block ID         | `flatlights:prismatic_block`       |
+| Prismatic Block  | <img src="images/gifs/prismatic_block2.gif" width="80" alt=""/> |
+|------------------|-----------------------------------------------------------------|
+| Craftable        | Yes                                                             |
+| Stackable        | Yes, 64                                                         |
+| Creative Tab     | Flat Lights                                                     |
+| Harvest Tool     | Any                                                             |
+| Blast Resistance | 100000000                                                       |
+| Drops            | Itself                                                          |
+| Light Level      | 15                                                              |
+| Block ID         | `flatlights:prismatic_block`                                    |
 
 A cheap but sturdy source of light. It shifts between all the colors of the rainbow.
 

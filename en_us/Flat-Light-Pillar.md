@@ -1,13 +1,13 @@
-| Flat Light Pillar | [[images/misc/crystal_blocks.png]] |
-|-------------------|------------------------------------|
-| Craftable         | Yes                                |
-| Stackable         | Yes, 64                            |
-| Creative Tab      | Flat Lights                        |
-| Harvest Tool      | Any                                |
-| Blast Resistance  | 100000000                          |
-| Drops             | Itself                             |
-| Light Level       | 15                                 |
-| Block ID          | `flatlights:<color>_pillar`        |
+| Flat Light Pillar | <img src="images/misc/pillars_vanilla.png" width="256" alt=""/> |
+|-------------------|-----------------------------------------------------------------|
+| Craftable         | Yes                                                             |
+| Stackable         | Yes, 64                                                         |
+| Creative Tab      | Flat Lights                                                     |
+| Harvest Tool      | Any                                                             |
+| Blast Resistance  | 100000000                                                       |
+| Drops             | Itself                                                          |
+| Light Level       | 15                                                              |
+| Block ID          | `flatlights:<color>_pillar`                                     |
 
 _Note: A list of colors can be found [here](Colors)._
 

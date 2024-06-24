@@ -1,13 +1,13 @@
-| Tile Light Block | [[images/misc/crystal_blocks.png]] |
-|------------------|------------------------------------|
-| Craftable        | Yes                                |
-| Stackable        | Yes, 64                            |
-| Creative Tab     | Flat Lights                        |
-| Harvest Tool     | Pickaxe, any tier                  |
-| Blast Resistance | 100000000                          |
-| Drops            | Itself                             |
-| Light Level      | 10                                 |
-| Block ID         | `flatlights:<color>_tiles`         |
+| Tile Light Block | <img src="images/misc/tiles_vanilla.png" width="256" alt=""/> |
+|------------------|---------------------------------------------------------------|
+| Craftable        | Yes                                                           |
+| Stackable        | Yes, 64                                                       |
+| Creative Tab     | Flat Lights                                                   |
+| Harvest Tool     | Pickaxe, any tier                                             |
+| Blast Resistance | 100000000                                                     |
+| Drops            | Itself                                                        |
+| Light Level      | 10                                                            |
+| Block ID         | `flatlights:<color>_tiles`                                    |
 
 _Note: A list of colors can be found [here](Colors)._
 

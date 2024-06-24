@@ -1,9 +1,9 @@
-| Reusable Dyes | [[images/misc/crystal_blocks.png]] |
-|---------------|------------------------------------|
-| Craftable     | Yes                                |
-| Stackable     | Yes, 64                            |
-| Creative Tab  | Flat Lights                        |
-| Item ID       | `flatlights:<color>_reusable_dye`  |
+| Reusable Dyes | [[images/misc/reusable_dye_grid.png]] |
+|---------------|---------------------------------------|
+| Craftable     | Yes                                   |
+| Stackable     | Yes, 64                               |
+| Creative Tab  | Flat Lights                           |
+| Item ID       | `flatlights:<color>_reusable_dye`     |
 
 _Note: A list of colors can be found [here](Colors) Only vanilla dye colors work._
 

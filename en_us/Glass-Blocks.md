@@ -1,12 +1,12 @@
-| Wire Glass Blocks | [[images/misc/crystal_blocks.png]] |
-|-------------------|------------------------------------|
-| Craftable         | Yes                                |
-| Stackable         | Yes, 64                            |
-| Creative Tab      | Flat Lights                        |
-| Harvest Tool      | Any                                |
-| Blast Resistance  | 100000000                          |
-| Drops             | Itself                             |
-| Block ID          | `flatlights:glass_<blocktype>`     |
+| Wire Glass Blocks | <img src="images/misc/glass.png" width="256" alt=""/> |
+|-------------------|-------------------------------------------------------|
+| Craftable         | Yes                                                   |
+| Stackable         | Yes, 64                                               |
+| Creative Tab      | Flat Lights                                           |
+| Harvest Tool      | Any                                                   |
+| Blast Resistance  | 100000000                                             |
+| Drops             | Itself                                                |
+| Block ID          | `flatlights:glass_<blocktype>`                        |
 
 _Note: A list of block types can be found [here](Block-Types)._
 

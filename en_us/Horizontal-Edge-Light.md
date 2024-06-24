@@ -1,13 +1,13 @@
-| Horizontal Edge Light | [[images/misc/crystal_blocks.png]]   |
-|-----------------------|--------------------------------------|
-| Craftable             | Yes                                  |
-| Stackable             | Yes, 64                              |
-| Creative Tab          | Flat Lights                          |
-| Harvest Tool          | Any                                  |
-| Blast Resistance      | 100000000                            |
-| Drops                 | Itself                               |
-| Light Level           | 15                                   |
-| Block ID              | `flatlights:<color>_horizontal_edge` |
+| Horizontal Edge Light | <img src="images/misc/horizontal_edge_vanilla.png" width="256" alt=""/> |
+|-----------------------|-------------------------------------------------------------------------|
+| Craftable             | Yes                                                                     |
+| Stackable             | Yes, 64                                                                 |
+| Creative Tab          | Flat Lights                                                             |
+| Harvest Tool          | Any                                                                     |
+| Blast Resistance      | 100000000                                                               |
+| Drops                 | Itself                                                                  |
+| Light Level           | 15                                                                      |
+| Block ID              | `flatlights:<color>_horizontal_edge`                                    |
 
 _Note: A list of colors can be found [here](Colors)._
 

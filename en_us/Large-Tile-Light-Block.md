@@ -1,13 +1,13 @@
-| Large Tile Light Block | [[images/misc/crystal_blocks.png]] |
-|------------------------|------------------------------------|
-| Craftable              | Yes                                |
-| Stackable              | Yes, 64                            |
-| Creative Tab           | Flat Lights                        |
-| Harvest Tool           | Pickaxe, any tier                  |
-| Blast Resistance       | 100000000                          |
-| Drops                  | Itself                             |
-| Light Level            | 10                                 |
-| Block ID               | `flatlights:<color>_large_tiles`   |
+| Large Tile Light Block | <img src="images/misc/large_tiles_vanilla.png" width="256" alt=""/> |
+|------------------------|---------------------------------------------------------------------|
+| Craftable              | Yes                                                                 |
+| Stackable              | Yes, 64                                                             |
+| Creative Tab           | Flat Lights                                                         |
+| Harvest Tool           | Pickaxe, any tier                                                   |
+| Blast Resistance       | 100000000                                                           |
+| Drops                  | Itself                                                              |
+| Light Level            | 10                                                                  |
+| Block ID               | `flatlights:<color>_large_tiles`                                    |
 
 _Note: A list of colors can be found [here](Colors)._
 
