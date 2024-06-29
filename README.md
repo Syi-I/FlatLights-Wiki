@@ -9,11 +9,11 @@ Not familiar with markdown? [Here's a handy cheatsheet](https://github.com/adam-
 
 Please follow these guidelines when adding and editing wiki content:
 
-- Wiki pages should be written in an informational style, and not include opinion or other bias. The aim is to convey information in an easy-to-understand format.
-- When applicable, match existing pages' formatting and headings. For example, a new enchantment page should have the same layout and formatting as the other enchantment pages. An easy way to do this is by copying an already existing page, and then editing the information. If there is no existing page or category, try to match the style of the other pages as closely as possible.
-- When adding screenshots, use the default resource pack without shaders, and try to keep screenshots 'clean' (i.e. free of inventory clutter, other mods' machinery and items, photo bombing mobs, etc.)
+- Wiki pages should be written in an informational style, and not include opinion or other bias. Information should be simply explained and easy to digest for the reader, without going into too much technical detail.
+- When applicable, match existing pages' formatting and headings (e.g. a new enchantment page should have the same layout and formatting as the other enchantment pages). An easy way to do this is by copying an already existing page, and then editing the information. If there is no existing page or category, try to match the style of the other pages as closely as possible when creating the layout.
+- When unsure of style or formatting (e.g. no page for this content/category exists yet), try to follow the [Minecraft wiki style guide](https://minecraft.wiki/w/Minecraft_Wiki:Style_guide).
+- When adding screenshots, use the default resource pack without shaders, and try to keep screenshots 'clean' (i.e. free of inventory clutter, other mods' blocks and items, photo bombing mobs).
 - Add captions explaining the images, directly below the relevant image, _in italics_.
-- When unsure of style or formatting (i.e. no page for this content/category exists yet), try to follow the [Minecraft wiki style guide](https://minecraft.wiki/w/Minecraft_Wiki:Style_guide).
 
 ## Translating
 
