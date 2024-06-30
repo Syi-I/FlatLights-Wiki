@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [soon:tm:]
+## [1.23.0] - 2024-06-30
 ### Added
 - **Curse of Lifted Pickup Truck**
     - Increases armor points of the cursed armor piece, while also increasing damage taken by the wearer while wearing a cursed armor piece
