@@ -10,7 +10,7 @@ _A fresh, unrolled Light Cube, Light Prism, and Light Sphere_
 _An example of a rare tier Light Cube and its tooltip_
 
 ## Obtaining
-Every curio has a chance to generate in the chests of basically any generated structure, such as but not limited to basic dungeons, strongholds, or desert temples. The chance of finding any one of the curios is equal, so finding one complete set may be difficult. Each chest has a chance of generating 1-3 curios.
+Every curio has a chance to generate in the chests of basically any generated structure, such as but not limited to basic dungeons, strongholds, or desert temples. Curios cannot be found in abandoned mineshafts. The chance of finding any one of the curios is equal, so finding one complete set may be difficult. Each chest has a chance of generating 1-3 curios.
 
 | Total Curios | Drop Chance |
 |:------------:|:-----------:|
