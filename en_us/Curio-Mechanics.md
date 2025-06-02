@@ -1,7 +1,11 @@
-Flat Lights requires the mod [Curios v4.1.0.0](https://www.curseforge.com/minecraft/mc-mods/curios/files/4419403) or above to be installed.
+Flat Lights requires the mod [Curios](https://www.curseforge.com/minecraft/mc-mods/curios) to be installed.
+NOTE: The 1.16.5 version of Flat Lights requires [Curios v4.1.0.0](https://www.curseforge.com/minecraft/mc-mods/curios/files/4419403) or above to be installed.
 
 ## Overview
-The curios that Flat Lights adds can be found in the loot chests of most generated structures. When first found, curios start off unrolled. When a player uses the curio for the first time it will roll a random [tier](#tiers). While the curios all share the same sprites, the curios' [sets](#sets) are predetermined as they are actually different items. All curios from Flat Lights have a set, [set effect](#set-effects), and tier, and have a certain slot type that they belong to.
+The curios that Flat Lights adds can be found in the loot chests of most generated structures. When first found, curios start off as a random curio item which when used via right-click will drop a fresh, unrolled curio. When a player uses the curio for the first time it will roll a random [tier](#tiers). While the curios all share the same sprites, the curios' [sets](#sets) are predetermined as they are actually different items. All curios from Flat Lights have a set, [set effect](#set-effects), and tier, and have a certain slot type that they belong to.
+
+[[images/screenshots/random_curio_loot_chest.png]]      
+_A random curio item found in the chest of a Desert Temple_
 
 [[images/screenshots/unrolled_curios.png]]      
 _A fresh, unrolled Light Cube, Light Prism, and Light Sphere_
