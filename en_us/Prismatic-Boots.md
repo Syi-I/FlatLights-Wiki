@@ -23,16 +23,18 @@ Prismatic boots can be crafted in a [Spectralizer](Spectralizer) using 1 [prisma
 Prismatic boots are armor that the player can wear, providing protection levels that are higher than the netherite equivalent. Prismatic boots provide `+5 Armor`, `+5 Armor Toughness`, and `+2.5 Knockback Resistance` when worn in the appropriate slot. Wearing the boots also prevents fall damage from being taken entirely.
 
 ### Damage Reduction
-Prismatic armor provides extra damage reduction when the wearer hits a certain threshold of armor points. Once the player has a combined total of armor points above 20 points, or full diamond armor, any armor points above 20 will add +5% damage reduction. The damage calculation looks like this: 
+Prismatic armor provides extra damage reduction based on the total armor value of the player's worn armor. Each point of armor provides a percentage of damage reduction, which by default is 1% but can be configured. The damage calculation looks like this: 
 
-`armor_total = player_armor - 20 > 0 ? player_armor - 20 : 0`   
-`reduction_ratio = min(armor_total * 0.05, config_reduction_cap)`   
+`armor_total = player_armor_boots + player_armor_leggings + player_armor_chestplate + player_armor_helmet` 
+`total_reduction = armor_total * (reduction_per_point / 100)`
+`reduction_ratio = clamp(total_reduction, 0, config_reduction_cap)`   
 `new_dmg = base_dmg * (1 - reduction_ratio)`
 
-Wearing a full set of prismatic armor will provide 30 armor points, so 10 extra points above diamond armor. The player does not have to wear a full set of prismatic armor for the damage reduction to work, any combination of armor that provides more than 20 points of armor can be used, meaning players can reach high amounts of reduction. This reduction has a limited amount that can accumulate though, shown in the armor pieces' tooltips, and by default is set to 25% extra damage reduction. This can be set from 0-100% in the config options to balance the effect as needed. While players only need to wear a single piece of prismatic armor to trigger the damage reduction effect, there is also a config option to enable 'multilayered reduction', which applies the reduction effect once per piece of prismatic armor worn instead of just one single time. For example, if a player is wearing a full set of prismatic armor, the damage calculation seen above will be performed 4 times in a row. The damage calculation would then look like this:
+Wearing a full set of prismatic armor will provide 30 armor points. The player does not have to wear a full set of prismatic armor for the damage reduction to work, any combination of armor can be used, meaning players can reach high amounts of reduction. This reduction has a limited amount that can accumulate though, shown in the armor pieces' tooltips, and by default is set to 30% extra damage reduction. This can be set from 0-100% in the config options to balance the effect as needed. While players only need to wear a single piece of prismatic armor to trigger the damage reduction effect, there is also a config option to enable 'multilayered reduction', which applies the reduction effect once per piece of prismatic armor worn instead of just one single time. For example, if a player is wearing a full set of prismatic armor, the damage calculation seen above will be performed 4 times in a row. The damage calculation would then look like this:
 
-`armor_total = player_armor - 20 > 0 ? player_armor - 20 : 0`   
-`reduction_ratio = min(armor_total * 0.05, config_reduction_cap)`   
+`armor_total = player_armor_boots + player_armor_leggings + player_armor_chestplate + player_armor_helmet`
+`total_reduction = armor_total * (reduction_per_point / 100)`
+`reduction_ratio = clamp(total_reduction, 0, config_reduction_cap)`
 `first_reduction = base_dmg * (1 - reduction_ratio)`    
 `second_reduction = first_reduction * (1 - reduction_ratio)`     
 `third_reduction = second_reduction * (1 - reduction_ratio)`     

@@ -1,7 +1,7 @@
 This is a list of all curio sets and curio set effects added by Flat Lights, with descriptions.
 
 ## Curio Sets
-### Dragon's Final Test
+### Hidden Dragon
 A basic curio set that provides well-rounded stat bonuses for combat and survival. This set does not focus on any one aspect in particular, adding a lot of weaker stat buffs rather than a few stronger ones.
 
 ### On the Forgotten Shore

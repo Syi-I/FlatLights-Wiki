@@ -1,8 +1,8 @@
-| Light Cube     | <img src="images/icons/curio.png" width="32" alt=""/>      |
-|----------------|------------------------------------------------------------|
-| Set Name       | [Dragon's Final Test](Sets-And-Effects#dragons-final-test) |
-| Set Effect     | [Erosion Aura](Sets-And-Effects#erosion-aura)              |
-| Possible Tiers | Common, Rare, Epic, Legendary, Growth                      |
+| Light Cube     | <img src="images/icons/curio.png" width="32" alt=""/> |
+|----------------|-------------------------------------------------------|
+| Set Name       | [Hidden Dragon](Sets-And-Effects#dragons-final-test)  |
+| Set Effect     | [Erosion Aura](Sets-And-Effects#erosion-aura)         |
+| Possible Tiers | Common, Rare, Epic, Legendary, Growth                 |
 
 ## Effects
 Provides base:  
